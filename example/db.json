@@ -9,6 +9,18 @@
       "id": 2,
       "title": "Second Article",
       "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "title": "this is some other s#i+",
+      "content": "i will be a great coder one day",
+      "id": 4,
+      "timleine": "15 weeks",
+      "motivation": "family, purpose, good life"
     }
   ]
 }
